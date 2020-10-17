@@ -1,2 +1,2 @@
-# Iris_KNN
+# Iris KNN
 Reuploading old notebooks
